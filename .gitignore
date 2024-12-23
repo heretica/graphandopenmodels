@@ -1,7 +1,7 @@
 # to exclude Obsidian's settings (including plugin and hotkey configurations) and workspace
-obsidian/
-obsidian/workspace.json
-obsidian/plugins/obsidian-git/data.json
+.obsidian/
+.obsidian/workspace.json
+.obsidian/plugins/obsidian-git/data.json
 
 # to exclude git settings 
 git/
