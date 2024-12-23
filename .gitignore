@@ -4,7 +4,7 @@
 .obsidian/plugins/obsidian-git/data.json
 
 # to exclude git settings 
-git/
+.git/
 
 # to exclude any sketch made on obsidian
 excalidraw/
