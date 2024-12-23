@@ -33,4 +33,4 @@ null*
 .DS_Store
 
 # to exclude rag settings
-.rag/
+rag/
