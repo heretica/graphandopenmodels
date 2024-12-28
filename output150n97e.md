@@ -1,3 +1,4 @@
+## Open Access
 ### Definition
 Open Access (OA) refers to the practice of providing unrestricted online access to scholarly research outputs, such as journal articles, conference papers, theses, and book chapters. The primary goal of Open Access is to make academic research freely available to anyone with internet access, removing financial, legal, and technical barriers to the dissemination of knowledge. This approach is intended to enhance the visibility, accessibility, and impact of research findings.
 
@@ -13,6 +14,7 @@ The Open Access landscape is diverse, with a variety of stakeholders including a
 ### History
 The Open Access movement began gaining momentum in the late 20th century, with the advent of the internet providing new opportunities for disseminating research. Key milestones include the Budapest Open Access Initiative in 2002, which articulated the principles of Open Access, and the Berlin Declaration on Open Access to Knowledge in the Sciences and Humanities in 2003. Over the years, the movement has grown, with increasing support from academic institutions, governments, and international organizations. The rise of digital technology and the push for transparency and accessibility in research have further propelled the adoption of Open Access practices.
 
+## Open Access
 ### Définition
 L'Open Business désigne un modèle d'entreprise qui repose sur la transparence, la collaboration et le partage ouvert d'informations, de ressources et de processus. Contrairement aux pratiques commerciales traditionnelles qui privilégient la confidentialité et la protection des actifs intellectuels, l'Open Business encourage l'ouverture et l'engagement avec des parties prenantes externes, y compris les clients, les partenaires et même les concurrents. L'objectif est de stimuler l'innovation, d'améliorer l'efficacité et de créer de la valeur partagée.
 
