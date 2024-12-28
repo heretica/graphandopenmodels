@@ -1,0 +1,3 @@
+---
+url: https://stackoverflow.blog/2021/01/07/open-source-has-a-funding-problem/
+---

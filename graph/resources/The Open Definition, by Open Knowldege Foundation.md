@@ -1,0 +1,3 @@
+---
+url: https://opendefinition.org/
+---

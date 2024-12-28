@@ -1,0 +1,3 @@
+---
+url: https://openfuture.eu/
+---

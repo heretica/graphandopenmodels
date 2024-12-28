@@ -1,0 +1,3 @@
+---
+url: http://www.catb.org/~esr/writings/cathedral-bazaar/cathedral-bazaar/#catbmain
+---
