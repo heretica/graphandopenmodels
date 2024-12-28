@@ -181,9 +181,10 @@
   },
   "active": "e73feb7d30285b0a",
   "lastOpenFiles": [
+    "rag/OntoGraph.html",
+    "rag/knowledge_graph.html",
     "graph/resources/🕴️🎤 Josh Woodward, Songs for people who like things.md",
     "output.md",
-    "rag/OntoGraph.html",
     "rag/lib/vis-9.1.2/vis-network.min.js",
     "rag/lib/vis-9.1.2/vis-network.css",
     "rag/lib/vis-9.1.2",
@@ -192,7 +193,6 @@
     "rag/lib/tom-select",
     "rag/lib/bindings/utils.js",
     "rag/lib/bindings",
-    "rag/knowledge_graph.html",
     "graph/resources/🕴️ OASIS Open, standardization organism.md",
     "graph/resources/🕴️ Alliance for Open Media.md",
     "graph/resources/📖 Howdy or Hello- Technical and Professional Communication, by a Texas OER Committee.md",
@@ -215,7 +215,6 @@
     "graph/resources/🛠️ Sherpa Romeo, analysis of publishers’ open access policies.md",
     "graph/resources/🛠️ Sci-Hub.md",
     "graph/resources/🛠️ SIL Open Font License (SIL OFL).md",
-    "graph/resources/🛠️ RedPajama-Data repository, Open Source Recipe to Reproduce LLaMA training dataset.md",
-    "graph/resources/🛠️ Prusa, 3D printers.md"
+    "graph/resources/🛠️ RedPajama-Data repository, Open Source Recipe to Reproduce LLaMA training dataset.md"
   ]
 }
