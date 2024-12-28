@@ -1,3 +1,4 @@
+# Open Access
 ### Definition
 Open Access (OA) refers to the practice of providing unrestricted online access to scholarly research outputs, such as journal articles, conference papers, theses, and book chapters. The primary goal of Open Access is to make research freely available to anyone with internet access, thereby promoting the dissemination and exchange of knowledge without financial, legal, or technical barriers.
 
@@ -13,6 +14,7 @@ The Open Access landscape is diverse and continually evolving. It includes a var
 ### History
 The concept of Open Access emerged in the late 20th century as a response to the rising costs of journal subscriptions and the limitations they imposed on the dissemination of research. The Budapest Open Access Initiative in 2002 is often cited as a pivotal moment, as it articulated a clear vision for Open Access and called for the removal of access barriers. Since then, numerous declarations and statements, such as the Berlin Declaration on Open Access to Knowledge in the Sciences and Humanities (2003), have reinforced the movement. Over the years, technological advancements and the growing demand for transparency and accessibility in research have propelled the Open Access movement forward, leading to significant changes in scholarly communication practices.
 
+# Open Business
 ### Definition
 Open Business refers to a business model that emphasizes transparency, collaboration, and shared value creation. It involves engaging stakeholders, including customers, employees, partners, and the broader community, in the decision-making processes and operations of the business. Open Business practices often include open innovation, open data, and open collaboration, aiming to foster a more inclusive and participatory approach to business.
 
@@ -28,6 +30,7 @@ The Open Business landscape is characterized by a diverse array of industries an
 ### History
 The roots of Open Business can be traced back to the open-source software movement in the late 20th century, which demonstrated the power of collaborative development and shared knowledge. As the internet and digital technologies advanced, the principles of openness began to permeate other areas of business. The early 2000s saw the rise of open innovation as companies recognized the benefits of tapping into external ideas and expertise. Over time, the concept of Open Business has evolved to encompass a broader range of practices and industries, driven by the increasing demand for transparency, accountability, and sustainable business practices in a rapidly changing world.
 
+# Open Banking
 ### Definition
 Open Banking is a financial services model that allows third-party developers to access consumer banking, transaction, and other financial data through the use of application programming interfaces (APIs). This model aims to foster greater transparency, competition, and innovation in the financial sector by enabling new products and services that can enhance consumer choice and control over their financial information.
 
@@ -43,6 +46,7 @@ The Open Banking landscape is rapidly evolving, driven by regulatory initiatives
 ### History
 The concept of Open Banking emerged in the early 21st century as part of a broader movement towards greater transparency and consumer empowerment in financial services. The introduction of PSD2 in the European Union in 2015 marked a significant milestone, as it required banks to open their data to third-party providers, paving the way for Open Banking. The UK followed with its own Open Banking initiative in 2018, setting a precedent for other countries to explore similar frameworks. Over the years, Open Banking has gained momentum globally, driven by the demand for more personalized and efficient financial services, as well as the need for increased competition and innovation in the banking sector.
 
+## Open Design
 ### Definition
 Open Design is a collaborative approach to design that emphasizes transparency, accessibility, and shared creativity. It involves the open sharing of design processes, tools, and outcomes, allowing anyone to contribute, modify, and use design projects. Open Design aims to democratize the design process, fostering innovation and inclusivity by leveraging the collective expertise and creativity of a global community.
 
