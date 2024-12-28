@@ -1,5 +1,11 @@
-Term to encompass all openness dynamics: [[Open Science]], [[Open Education]], [[Open Software]]
-, [[Open Data]], [[Open Hardware]]...
+---
+encompasses:
+  - "[[Open Science]]"
+  - "[[Open Education]]"
+  - "[[Open Software]]"
+  - "[[Open Data]]"
+  - "[[Open Hardware]]"
+---
 
 > **Open models**: Modes of organisation and knowledge production based on the digital, the free circulation of information and collaboration on an Internet scale which seek to benefit from the properties of interaction between ecosystems.
 
