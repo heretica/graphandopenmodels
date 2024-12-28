@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "output150n97e.md",
+                "file": "output150n.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "output150n97e"
+              "title": "output150n"
             }
           }
         ]
@@ -183,21 +183,21 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "e73feb7d30285b0a",
+  "active": "f846e0779d2eae35",
   "lastOpenFiles": [
-    "OntoGraph.html",
-    "knowledge_graph.html",
+    "output150n.md",
+    "output150n97e.md",
     "rag/OntoGraph.html",
     "rag/knowledge_graph.html",
+    "OntoGraph.html",
+    "knowledge_graph.html",
     "graph/resources/🕴️🎤 Josh Woodward, Songs for people who like things.md",
-    "output150n97e.md",
     "rag/lib/vis-9.1.2/vis-network.min.js",
     "rag/lib/vis-9.1.2/vis-network.css",
     "rag/lib/vis-9.1.2",
     "rag/lib/tom-select/tom-select.css",
     "rag/lib/tom-select/tom-select.complete.min.js",
     "rag/lib/tom-select",
-    "rag/lib/bindings/utils.js",
     "graph/resources/🕴️ OASIS Open, standardization organism.md",
     "graph/resources/🕴️ Alliance for Open Media.md",
     "graph/resources/📖 Howdy or Hello- Technical and Professional Communication, by a Texas OER Committee.md",
