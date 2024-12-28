@@ -185,6 +185,7 @@
   },
   "active": "f846e0779d2eae35",
   "lastOpenFiles": [
+    "output.md",
     "rag/OntoGraph.html",
     "rag/lib/vis-9.1.2/vis-network.min.js",
     "rag/lib/vis-9.1.2/vis-network.css",
@@ -195,7 +196,6 @@
     "rag/lib/bindings/utils.js",
     "rag/lib/bindings",
     "rag/knowledge_graph.html",
-    "rag/requirements.txt",
     "graph/resources/🕴️ OASIS Open, standardization organism.md",
     "graph/resources/🕴️ Alliance for Open Media.md",
     "graph/resources/📖 Howdy or Hello- Technical and Professional Communication, by a Texas OER Committee.md",
