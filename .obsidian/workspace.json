@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "graph/resources/🛠️ ccREL - The Creative Commons Rights Expression Language.md",
+                "file": "graph/resources/📖 Howdy or Hello- Technical and Professional Communication, by a Texas OER Committee.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "🛠️ ccREL - The Creative Commons Rights Expression Language"
+              "title": "📖 Howdy or Hello- Technical and Professional Communication, by a Texas OER Committee"
             }
           }
         ]
@@ -52,7 +52,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "ccrel",
+                "query": "howdy",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -186,6 +186,7 @@
   },
   "active": "e73feb7d30285b0a",
   "lastOpenFiles": [
+    "graph/resources/🛠️ ccREL - The Creative Commons Rights Expression Language.md",
     "graph/resources/🛠️ RISC-V, Instruction Set Architecture (computer architecture).md",
     "graph/resources/🛠️ Dublin Core, metadata schema for digital resources.md",
     "graph/resources/📚 🇫🇷 schema.data.gouv.fr, index of public data schemas for France.md",
@@ -197,7 +198,6 @@
     "graph/resources/🛠️ oa.mg, open access search engine.md",
     "graph/resources/🛠️ inventaire.io, books inventory.md",
     "graph/resources/🛠️ convOERter, convert presentation to OER.md",
-    "graph/resources/🛠️ ccREL - The Creative Commons Rights Expression Language.md",
     "graph/resources/🛠️ Unpaywall, browser extension to bypass paywalls.md",
     "graph/resources/🛠️ The Mason OER Metafinder (MOM), OER search engine.md",
     "graph/resources/🛠️ The Lens, search engine for free and open patent.md",
