@@ -185,6 +185,17 @@
   },
   "active": "f846e0779d2eae35",
   "lastOpenFiles": [
+    "rag/onto_graph/image__vector_store.json",
+    "rag/onto_graph/default__vector_store.json",
+    "rag/onto_graph/property_graph_store.json",
+    "rag/onto_graph/graph_store.json",
+    "rag/onto_graph/index_store.json",
+    "rag/onto_graph/docstore.json",
+    "rag/knowledge_graph/image__vector_store.json",
+    "rag/knowledge_graph/default__vector_store.json",
+    "rag/knowledge_graph/graph_store.json",
+    "rag/knowledge_graph/index_store.json",
+    "rag/knowledge_graph/docstore.json",
     "graph/resources/🕴️ OASIS Open, standardization organism.md",
     "graph/resources/🕴️ Alliance for Open Media.md",
     "graph/resources/📖 Howdy or Hello- Technical and Professional Communication, by a Texas OER Committee.md",
@@ -209,8 +220,6 @@
     "graph/resources/🛠️ SIL Open Font License (SIL OFL).md",
     "graph/resources/🛠️ RedPajama-Data repository, Open Source Recipe to Reproduce LLaMA training dataset.md",
     "graph/resources/🛠️ Prusa, 3D printers.md",
-    "graph/resources/🛠️ PressBooks, open book creation platform.md",
-    "graph/resources/🛠️ Prereview, open peer review platform.md",
-    "graph/resources"
+    "graph/resources/🛠️ PressBooks, open book creation platform.md"
   ]
 }
