@@ -1,8 +1,4 @@
 ---
 url: https://schema.org/
 ---
-Plateforme de schémas de données structurées.
-
-45M+ domaines utilisateurs
-• Compatible RDFa/Microdata/JSON-LD
-• 450B+ objets Schema.org	Gouvernance collaborative (Google, Microsoft, Yahoo, Yandex)
+Schema.org représente une initiative collaborative majeure dans le domaine des données structurées sur Internet. Lancée par les géants du web (Google, Microsoft, Yahoo et Yandex), cette plateforme est devenue un standard de facto avec plus de 45 millions de domaines web utilisant ses vocabulaires. Sa force réside dans sa flexibilité, permettant l'utilisation de différents encodages comme RDFa, Microdata et JSON-LD. Avec plus de 450 milliards d'objets Schema.org en circulation, elle joue un rôle crucial dans l'organisation et la structuration des données du web moderne. Son développement communautaire ouvert, via des listes de diffusion publiques et GitHub, garantit son évolution continue et son adaptation aux besoins émergents.

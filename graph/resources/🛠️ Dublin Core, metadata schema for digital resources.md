@@ -1,3 +1,4 @@
 ---
 url: https://dublincore.org/
 ---
+Organisation fondamentale dans le monde des métadonnées, Dublin Core développe et maintient des standards internationaux essentiels à l'organisation de l'information numérique. À travers ses conférences, webinaires et programmes de formation, elle anime une communauté mondiale d'experts en métadonnées. Son projet récent OpenWEMI démontre sa capacité à innover en proposant des solutions pour la description des ressources bibliographiques. En tant qu'organisation à but non lucratif, elle joue un rôle crucial dans l'établissement de pratiques standardisées pour la description et la découverte de ressources numériques.

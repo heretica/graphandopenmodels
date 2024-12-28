@@ -1,3 +1,4 @@
 ---
 url: https://schema.data.gouv.fr/
 ---
+Initiative française de référencement des schémas de données publiques, schema.data.gouv.fr représente l'effort national pour standardiser et structurer les données gouvernementales. Ce portail se concentre particulièrement sur les spécifications techniques des infrastructures publiques, notamment les bornes de recharge pour véhicules électriques (IRVE). Sous licence etalab-2.0, il offre non seulement un référentiel de schémas mais aussi des outils de validation et de publication. Cette plateforme illustre l'engagement de la France dans l'ouverture et la structuration des données publiques, facilitant leur réutilisation par différents acteurs de la société.

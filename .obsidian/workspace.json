@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "graph/resources/📚 Schema.org, create, maintain, and promote schemas for structured data on the Internet, on web pages, in email messages, and beyond.md",
+                "file": "graph/resources/🛠️ Dublin Core, metadata schema for digital resources.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "📚 Schema.org, create, maintain, and promote schemas for structured data on the Internet, on web pages, in email messages, and beyond"
+              "title": "🛠️ Dublin Core, metadata schema for digital resources"
             }
           }
         ]
@@ -52,7 +52,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "schema",
+                "query": "dubl",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -73,7 +73,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -185,6 +186,8 @@
   },
   "active": "e73feb7d30285b0a",
   "lastOpenFiles": [
+    "graph/resources/📚 🇫🇷 schema.data.gouv.fr, index of public data schemas for France.md",
+    "graph/resources/📚 Schema.org, create, maintain, and promote schemas for structured data on the Internet, on web pages, in email messages, and beyond.md",
     "graph/resources/👩‍🎓 Économie de la contribution et entrepreneuriat - Base de connaissances.md",
     "graph/Contribution Guidelines.md",
     "graph/resources/🛠️ 🇪🇺 Open Mining INfrastructure for TExt and Data (OpenMinTeD).md",
@@ -209,8 +212,6 @@
     "graph/resources/🛠️ OpenReview.md",
     "graph/resources/🛠️ Open Source JobHub.md",
     "graph/resources/🛠️ Open Data Commons, legal tools for open data by Open Knowledge Association.md",
-    "graph/resources/🛠️ Open Researcher and Contributor ID (ORCID).md",
-    "graph/resources/🛠️ Open Collective, legal and financial toolbox for grassroots groups.md",
     "graph/resources"
   ]
 }
