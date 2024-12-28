@@ -1,3 +1,7 @@
+---
+parent: "[[Open Models]]"
+---
+
 # Definition 
 
 Open peer review is an umbrella term for a number of overlapping ways that peer review models can be adapted in line with the aims of Open Science, including making reviewer and author identities open, publishing review reports and enabling greater participation in the peer review process. The full list of traits is:

@@ -1,3 +1,7 @@
+---
+parent: "[[Open Models]]"
+---
+
 # Definition
 
 > Open innovation is the use of purposive inflows and outflows of knowledge to accelerate internal innovation, and expand the markets for external use of innovation, respectively. Open innovation is a paradigm that assumes that firms can and should use external ideas as well as internal ideas, and internal and external paths to market, as they look to advance their technology.
